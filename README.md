@@ -86,7 +86,7 @@ Press CTRL+C to quit
 127.0.0.1 - - [04/Mar/2023 05:45:19] "GET /style.css HTTP/1.1" 404 -
 ```
 
-<img src="./Images/Project-Flask-1-3.JPG"  width="30%" height="100%">
+<img src="./Images/Project-Flask-1-3.JPG"  width="50%" height="100%">
 
 ---
 
