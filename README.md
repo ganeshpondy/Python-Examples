@@ -64,11 +64,11 @@ Press CTRL+C to quit
 ```
 Open the index.html file and Enter "Name" in the Text Box:
 
-<img src="./Images/Project-Flask-1-1.JPG"  width="1000%" height="100%">
+<img src="./Images/Project-Flask-1-1.JPG"  width="100%" height="100%">
 
 Then Press `submit` button.
 
-<img src="./Images/Project-Flask-1-2.JPG"  width="1000%" height="100%">
+<img src="./Images/Project-Flask-1-2.JPG"  width="100%" height="100%">
 
 Run `python3 app_2.py`
 
@@ -86,7 +86,7 @@ Press CTRL+C to quit
 127.0.0.1 - - [04/Mar/2023 05:45:19] "GET /style.css HTTP/1.1" 404 -
 ```
 
-<img src="./Images/Project-Flask-1-3.JPG"  width="1000%" height="100%">
+<img src="./Images/Project-Flask-1-3.JPG"  width="100%" height="100%">
 
 ---
 
@@ -121,5 +121,5 @@ Press CTRL+C to quit
 
 Now the Page will open with the CSS Style.
 
-<img src="./Images/Project-Flask-2.JPG"  width="1000%" height="100%">
+<img src="./Images/Project-Flask-2.JPG"  width="100%" height="100%">
 
