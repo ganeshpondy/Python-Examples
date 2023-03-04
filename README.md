@@ -7,14 +7,15 @@ Details about the Scripts
 ---
 ### 1. request-module-git-api
 
-[Calculator.sh](https://github.com/ganeshpondy/Python-Examples/blob/main/request-module-git-api.py)
+[request-module-git-api.py](https://github.com/ganeshpondy/Python-Examples/blob/main/request-module-git-api.py)
 
 Fetch multiple data from GitHub API via Request module, covert JSON data into a dictionary
 
 #### Sample Output:
 
-```python
+```PYTHON
 python3 request-module-git-api.py
+
 Project name is ganeshpondy/ansible-config-mgt 
 Project URL is https://api.github.com/repos/ganeshpondy/ansible-config-mgt
 
