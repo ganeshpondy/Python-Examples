@@ -1,0 +1,5 @@
+flask
+# Auto Restart App, when any change in the code
+python-dotenv
+# To connect to DataBase
+psycopg2-binary

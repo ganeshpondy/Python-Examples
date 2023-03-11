@@ -1,0 +1,8 @@
+click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+# Auto Restart App, when any change in the code
+# python-dotenv
