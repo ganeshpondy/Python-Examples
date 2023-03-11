@@ -70,19 +70,19 @@ The random password 5: OoyxN9bS
 - Then GUI Window will Open as below.
 - Enter the Pawword Length and check the Required Boxes
 
-<img src="./Images/Password_Generator_1.JPG"  width="50%" height="100%">
+<img src="./Images/Password_Generator_1.JPG"  width="35%" height="100%">
 
 ----
 
-<img src="./Images/Password_Generator_2.JPG"  width="50%" height="100%">
+<img src="./Images/Password_Generator_2.JPG"  width="35%" height="100%">
 
 ----
 
-<img src="./Images/Password_Generator_3.JPG"  width="50%" height="100%">
+<img src="./Images/Password_Generator_3.JPG"  width="35%" height="100%">
 
 ----
 
-<img src="./Images/Password_Generator_4.JPG"  width="50%" height="100%">
+<img src="./Images/Password_Generator_4.JPG"  width="35%" height="100%">
 
 
 
